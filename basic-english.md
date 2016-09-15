@@ -1,7 +1,7 @@
 
-Based on (Ogden's Basic English)[http://ogden.basic-english.org/words.html]
+Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
 
-= Operations - 100 words
+# Operations - 100 words
 
  - come
  - get
@@ -104,7 +104,7 @@ Based on (Ogden's Basic English)[http://ogden.basic-english.org/words.html]
  - please
  - yes
 
-= Things - 400 General words
+# Things - 400 General words
 
  - account 
  - act 
@@ -505,7 +505,7 @@ Based on (Ogden's Basic English)[http://ogden.basic-english.org/words.html]
  - writing  
  - year
 
-= Things - 200 Picturable words
+# Things - 200 Picturable words
 
  - angle
  - ant
@@ -708,7 +708,7 @@ Based on (Ogden's Basic English)[http://ogden.basic-english.org/words.html]
  - wire
  - worm .
 
-= Qualities - 100 General
+# Qualities - 100 General
 
  - able
  - acid
@@ -811,7 +811,7 @@ Based on (Ogden's Basic English)[http://ogden.basic-english.org/words.html]
  - yellow
  - young .
 
-= Qualities - 50 Opposites
+# Qualities - 50 Opposites
 
  - awake
  - bad
