@@ -175,7 +175,8 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - credit 
  - crime 
  - crush 
- - cry ,current 
+ - cry
+ - current 
  - curve 
  - damage 
  - danger 
@@ -314,7 +315,8 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - mist 
  - money 
  - month 
- - morning ,mother 
+ - morning
+ - mother 
  - motion 
  - mountain 
  - move 
