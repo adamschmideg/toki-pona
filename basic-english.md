@@ -80,7 +80,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - forward
  - here
  - near
- - now
+ - now: tenpo ni
  - out
  - still
  - then
@@ -95,8 +95,8 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - quite
  - so
  - very
- - tomorrow
- - yesterday
+ - tomorrow: tenpo suno kama
+ - yesterday: tenpo suno pini
  - north
  - south
  - east
@@ -175,13 +175,13 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - credit 
  - crime 
  - crush 
- - cry
+ - cry: pana e telo oko
  - current 
  - curve 
  - damage 
  - danger 
  - daughter 
- - day 
+ - day: tenpo suno
  - death 
  - debt 
  - decision 
@@ -255,7 +255,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - history 
  - hole 
  - hope 
- - hour 
+ - hour: tenpo suli ilo
  - humor 
  - ice 
  - idea 
@@ -311,11 +311,11 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - milk 
  - mind 
  - mine 
- - minute 
+ - minute: tenpo lili ilo
  - mist 
  - money 
- - month 
- - morning
+ - month: tenpo mun
+ - morning: open pi tenpo suno
  - mother 
  - motion 
  - mountain 
@@ -325,7 +325,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - nation 
  - need 
  - news 
- - night 
+ - night: tenpo pimeja
  - noise 
  - note 
  - number 
@@ -493,11 +493,11 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - wax 
  - way 
  - weather 
- - week 
+ - week: tenpo esun
  - weight 
  - wind 
  - wine 
- - winter 
+ - winter: tenpo lete
  - woman 
  - wood 
  - wool 
@@ -612,7 +612,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - knee
  - knife
  - knot
- - leaf
+ - leaf: lipu kasi
  - leg
  - library
  - line
@@ -673,7 +673,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - spade
  - sponge
  - spoon
- - spring
+ - spring: tenpo pi kasi kule
  - square
  - stamp
  - star
