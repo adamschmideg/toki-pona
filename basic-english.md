@@ -1,22 +1,23 @@
+Most common English words in Toki pona
 
-Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
+(Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html))
 
 # Operations - 100 words
 
- - come
- - get
- - give
- - go
+ - come: kama
+ - get: kama jo
+ - give: pana
+ - go: tawa
  - keep
  - let
- - make
+ - make: pali
  - put
  - seem
  - take
  - be
  - do
- - have
- - say
+ - have: jo
+ - say: toki
  - see
  - send
  - may
@@ -30,39 +31,39 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - before
  - between
  - by
- - down
- - from
- - in
+ - down: anpa
+ - from: tan
+ - in: lon
  - off
- - on
+ - on: lon
  - over
  - through
- - to
+ - to: tawa
  - under
  - up
- - with
+ - with: kepeken
  - as
  - for
  - of
  - till
  - than
- - a 
- - the
- - all
+ - a: -
+ - the: -
+ - all: ale
  - any
- - every
- - little
- - much
- - no
+ - every: ale
+ - little: lili
+ - much: ale
+ - no: ala
  - other
  - some
  - such
  - that
- - this
- - I 
- - he
- - you
- - who
+ - this: ni
+ - I: mi
+ - he: sina
+ - you: sina
+ - who: jan seme
  - and
  - because
  - but
@@ -72,29 +73,29 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - while
  - how
  - when
- - where
- - why
+ - where: lon seme
+ - why: tan seme
  - again
  - ever
  - far
  - forward
- - here
- - near
+ - here: lon ni
+ - near: weka ala
  - now: tenpo ni
  - out
  - still
  - then
  - there
  - together
- - well
+ - well: pona
  - almost
  - enough
  - even
- - not
- - only
+ - not: ala
+ - only: taso
  - quite
  - so
- - very
+ - very: mute
  - tomorrow: tenpo suno kama
  - yesterday: tenpo suno pini
  - north
@@ -112,16 +113,16 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - adjustment 
  - advertisement 
  - agreement 
- - air 
+ - air: kon
  - amount 
- - amusement 
+ - amusement: musi
  - animal 
  - answer 
  - apparatus 
  - approval 
- - argument 
- - art 
- - attack 
+ - argument: utala toki
+ - art
+ - attack: utala
  - attempt 
  - attention 
  - attraction 
@@ -131,20 +132,20 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - base 
  - behavior 
  - belief 
- - birth 
+ - birth: kama tawa suno
  - bit 
- - bite 
- - blood 
+ - bite: moku lili
+ - blood: telo sijelo loje
  - blow 
- - body 
+ - body: sijelo
  - brass 
- - bread 
+ - bread: pan
  - breath 
- - brother 
- - building 
+ - brother: jan sama mije
+ - building: tomo
  - burn 
  - burst 
- - business 
+ - business: esun
  - butter 
  - canvas 
  - care 
@@ -152,12 +153,12 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - chalk 
  - chance 
  - change 
- - cloth 
+ - cloth: len
  - coal 
- - color 
+ - color: kule
  - comfort 
  - committee 
- - company 
+ - company: kulupu jan
  - comparison 
  - competition 
  - condition 
@@ -169,22 +170,22 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - cork 
  - cotton 
  - cough 
- - country 
+ - country: ma
  - cover 
  - crack 
  - credit 
- - crime 
+ - crime: pakala
  - crush 
  - cry: pana e telo oko
  - current 
  - curve 
- - damage 
- - danger 
- - daughter 
+ - damage: pakala
+ - danger: ~ ken pakala
+ - daughter: meli lili
  - day: tenpo suno
- - death 
+ - death: moli
  - debt 
- - decision 
+ - decision: ~ wile
  - degree 
  - design 
  - desire 
@@ -195,78 +196,78 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - direction 
  - discovery 
  - discussion 
- - disease 
+ - disease: pakala
  - disgust 
  - distance 
  - distribution 
  - division 
  - doubt 
- - drink 
+ - drink: telo
  - driving 
  - dust 
  - earth 
  - edge 
  - education 
  - effect 
- - end 
+ - end: pini
  - error 
  - event 
  - example 
  - exchange 
- - existence 
+ - existence: lon
  - expansion 
  - experience 
- - expert 
+ - expert: jan sona
  - fact 
  - fall 
  - family 
- - father 
+ - father: mama mije
  - fear 
- - feeling 
- - fiction 
+ - feeling: pilin
+ - fiction: sitelen musi
  - field 
  - fight 
- - fire 
- - flame 
- - flight 
- - flower 
+ - fire: seli
+ - flame: seli lili
+ - flight: tawa lon kon
+ - flower: kasi kule
  - fold 
- - food 
- - force 
+ - food: moku
+ - force: wawa
  - form 
- - friend 
- - front 
- - fruit 
+ - friend: jan pona
+ - front: sinpin 
+ - fruit: kili
  - glass 
  - gold 
  - government 
  - grain 
- - grass 
+ - grass: kasi anpa
  - grip 
- - group 
+ - group: kulupu
  - growth 
  - guide 
  - harbor 
- - harmony 
+ - harmony: pona
  - hate 
- - hearing 
- - heat 
+ - hearing: kute
+ - heat: seli
  - help 
  - history 
- - hole 
+ - hole: lupa
  - hope 
  - hour: tenpo suli ilo
  - humor 
- - ice 
- - idea 
+ - ice: telo kiwen
+ - idea: toki
  - impulse 
  - increase 
  - industry 
  - ink 
- - insect 
+ - insect: pipi
  - instrument 
  - insurance 
- - interest 
+ - interest: wile sona
  - invention 
  - iron 
  - jelly 
@@ -276,59 +277,59 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - jump 
  - kick 
  - kiss 
- - knowledge 
+ - knowledge: sona
  - land 
- - language 
+ - language: toki
  - laugh 
  - law 
  - lead 
- - learning 
+ - learning: kama sona
  - leather 
  - letter 
  - level 
  - lift 
- - light 
+ - light: suno
  - limit 
  - linen 
- - liquid 
+ - liquid: telo
  - list 
- - look 
+ - look: lukin
  - loss 
  - love 
  - machine 
- - man 
- - manager 
+ - man: jan
+ - manager: jan lawa
  - mark 
- - market 
+ - market: esun
  - mass 
- - meal 
+ - meal: moku
  - measure 
  - meat 
  - meeting 
  - memory 
  - metal 
  - middle 
- - milk 
+ - milk: telo walo, telo walo pi soweli Kawa
  - mind 
  - mine 
  - minute: tenpo lili ilo
  - mist 
- - money 
+ - money: mani
  - month: tenpo mun
  - morning: open pi tenpo suno
- - mother 
- - motion 
- - mountain 
- - move 
- - music 
- - name 
- - nation 
- - need 
- - news 
+ - mother: mama meli
+ - motion: tawa
+ - mountain: nena suli
+ - move: tawa
+ - music: kalama musi
+ - name: nimi
+ - nation
+ - need: wile
+ - news: sin
  - night: tenpo pimeja
- - noise 
+ - noise: kalama ike
  - note 
- - number 
+ - number: nanpa
  - observation 
  - offer 
  - oil 
@@ -338,26 +339,26 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - organization 
  - ornament 
  - owner 
- - page 
- - pain 
- - paint 
- - paper 
+ - page: lipu
+ - pain: pilin ike
+ - paint: kule
+ - paper: lipu
  - part 
  - paste 
  - payment 
  - peace 
- - person 
+ - person: jan
  - place 
- - plant 
- - play 
+ - plant: kasi
+ - play: musi
  - pleasure 
  - point 
- - poison 
+ - poison: telo moli
  - polish 
  - porter 
  - position 
- - powder 
- - power 
+ - powder: ko
+ - power: wawa
  - price 
  - print 
  - process 
@@ -371,8 +372,8 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - purpose 
  - push 
  - quality 
- - question 
- - rain 
+ - question: wile seme
+ - rain: telo sewi
  - range 
  - rate 
  - ray 
@@ -382,7 +383,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - record 
  - regret 
  - relation 
- - religion 
+ - religion: nasin sewi
  - representative 
  - request 
  - respect 
@@ -390,37 +391,37 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - reward 
  - rhythm 
  - rice 
- - river 
- - road 
+ - river: nasin telo
+ - road: nasin
  - roll 
- - room 
+ - room: tomo
  - rub 
  - rule 
  - run 
  - salt 
  - sand 
  - scale 
- - science 
- - sea 
+ - science: sona
+ - sea: telo suli
  - seat 
  - secretary 
  - selection 
  - self 
  - sense 
  - servant 
- - sex 
+ - sex: unpa
  - shade 
  - shake 
  - shame 
  - shock 
- - side 
+ - side: poka
  - sign 
  - silk 
  - silver 
- - sister 
+ - sister: sama meli
  - size 
- - sky 
- - sleep 
+ - sky: sewi
+ - sleep: lape
  - slip 
  - slope 
  - smash 
@@ -434,7 +435,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - son 
  - song 
  - sort 
- - sound 
+ - sound: kalama
  - soup 
  - space 
  - stage 
@@ -444,33 +445,33 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - steel 
  - step 
  - stitch 
- - stone 
- - stop 
+ - stone: kiwen
+ - stop: pini
  - story 
  - stretch 
  - structure 
  - substance 
- - sugar 
+ - sugar: suwi
  - suggestion 
- - summer 
+ - summer: tenpo seli
  - support 
  - surprise 
- - swim 
+ - swim: tawa lon telo
  - system 
- - talk 
+ - talk: toki
  - taste 
  - tax 
- - teaching 
+ - teaching: pana e sona
  - tendency 
  - test 
  - theory 
- - thing 
- - thought 
+ - thing: ijo
+ - thought: toki
  - thunder 
- - time 
+ - time: tenpo
  - tin 
  - top 
- - touch 
+ - touch: pilin
  - trade 
  - transport 
  - trick 
@@ -478,7 +479,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - turn 
  - twist 
  - unit 
- - use 
+ - use: kepeken
  - value 
  - verse 
  - vessel 
@@ -488,24 +489,24 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - war 
  - wash 
  - waste 
- - water 
+ - water: telo
  - wave 
  - wax 
- - way 
+ - way: nasin
  - weather 
  - week: tenpo esun
  - weight 
  - wind 
- - wine 
+ - wine: telo nasa loje
  - winter: tenpo lete
- - woman 
- - wood 
+ - woman: meli
+ - wood: kasi kiwen
  - wool 
  - word 
- - work 
+ - work: pali
  - wound 
- - writing  
- - year
+ - writing: sitelen 
+ - year: tenpo sike
 
 # Things - 200 Picturable words
 
@@ -513,29 +514,29 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - ant
  - apple
  - arch
- - arm
+ - arm: luka
  - army
- - baby
+ - baby: jan lili
  - bag
- - ball
+ - ball: sike
  - band
  - basin
  - basket
  - bath
- - bed
+ - bed: supa
  - bee
  - bell
  - berry
- - bird
+ - bird: wawo
  - blade
  - board
- - boat
+ - boat: tomo tawa lon telo
  - bone
  - book
  - boot
  - bottle
- - box
- - boy
+ - box: poki
+ - boy: mije lili
  - brain
  - brake
  - branch
@@ -547,7 +548,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - button
  - cake
  - camera
- - card
+ - card: lipu
  - cart
  - carriage
  - cat
@@ -555,9 +556,9 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - cheese
  - chest
  - chin
- - church
- - circle
- - clock
+ - church: tomo pi nasin sewi
+ - circle: sike
+ - clock: tenpo ilo
  - cloud
  - coat
  - collar
@@ -568,76 +569,76 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - curtain
  - cushion
  - dog
- - door
+ - door: lupa
  - drain
  - drawer
- - dress
+ - dress: len
  - drop
- - ear
+ - ear: nena kute
  - egg
  - engine
- - eye
- - face
+ - eye: oko
+ - face: sinpin
  - farm
  - feather
  - finger
- - fish
- - flag
+ - fish: kala
+ - flag: lipu ma
  - floor
- - fly
- - foot
- - fork
+ - fly: tawa lon kon
+ - foot: nuka
+ - fork: ilo moku
  - fowl
  - frame
- - garden
- - girl
- - glove
+ - garden: ma kasi
+ - girl: meli lili
+ - glove: len luka
  - goat
- - gun
- - hair
+ - gun: ilo utala
+ - hair: linja lawa
  - hammer
- - hand
- - hat
- - head
- - heart
+ - hand: luka
+ - hat: len lawa
+ - head: lawa
+ - heart: pilin
  - hook
  - horn
  - horse
- - hospital
- - house
+ - hospital: tomo pi pona sijelo
+ - house: tomo
  - island
  - jewel
  - kettle
  - key
  - knee
- - knife
+ - knife: ilo moku
  - knot
  - leaf: lipu kasi
- - leg
- - library
- - line
- - lip
+ - leg: noku
+ - library: tomo lipu
+ - line: linja
+ - lip: uta
  - lock
- - map
+ - map: sitelen ma
  - match
  - monkey
- - moon
- - mouth
+ - moon: mun
+ - mouth: uta
  - muscle
  - nail
- - neck
+ - neck: anpa lawa
  - needle
  - nerve
  - net
- - nose
+ - nose: nena
  - nut
  - office
  - orange
  - oven
  - parcel
- - pen
- - pencil
- - picture
+ - pen: ilo sitelen
+ - pencil: ilo sitelen
+ - picture: sitelen
  - pig
  - pin
  - pipe
@@ -657,7 +658,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - roof
  - root
  - sail
- - school
+ - school: tomo sona
  - scissors
  - screw
  - seed
@@ -665,10 +666,10 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - shelf
  - ship
  - shirt
- - shoe
- - skin
+ - shoe: len nuka
+ - skin: selo
  - skirt
- - snake
+ - snake: akesi linja
  - sock
  - spade
  - sponge
@@ -679,12 +680,12 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - star
  - station
  - stem
- - stick
+ - stick: palisa
  - stocking
  - stomach
  - store
  - street
- - sun
+ - sun: suno
  - table
  - tail
  - thread
@@ -693,8 +694,8 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - ticket
  - toe
  - tongue
- - tooth
- - town
+ - tooth: kiwen ute walo
+ - town: ma tomo
  - train
  - tray
  - tree
@@ -705,7 +706,7 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
  - wheel
  - whip
  - whistle
- - window
+ - window: lupa
  - wing
  - wire
  - worm .
@@ -714,13 +715,13 @@ Based on [Ogden's Basic English](http://ogden.basic-english.org/words.html)
 
  - able
  - acid
- - angry
+ - angry: pilin utala
  - automatic
  - beautiful
- - black
+ - black: pimeja
  - boiling
  - bright
- - broken
+ - broken: pakala
  - brown
  - cheap
  - chemical
